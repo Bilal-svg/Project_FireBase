@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759947168985",
+    "project_id": "tryingfirebase-9dccd",
+    "storage_bucket": "tryingfirebase-9dccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759947168985:android:2b070e01d2afe85dcac2c8",
+        "android_client_info": {
+          "package_name": "com.muhammadbilalnadeem.firebaseeeee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759947168985-ski4jr0rc5q404jis1j9li3cl7j18gfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRwtrIKwRe52cqLzdUKVc5eVqyvUfktIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759947168985-ski4jr0rc5q404jis1j9li3cl7j18gfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
